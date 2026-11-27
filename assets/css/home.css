@@ -6,8 +6,9 @@
 }
 
 .square{
-    width: 400px;
-    height: 400px;
+    width: min(640px, calc(100% - 32px));
+    min-height: 460px;
+    padding: 24px;
     background: #172a2e;
 }
 
