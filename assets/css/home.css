@@ -64,13 +64,12 @@ p{
     box-sizing: border-box;
 }
 
-.str {
+.a{
     text-decoration: none;
     color: #152126;
 }
 
 .arrow{
     float: right;
-    margin-left: 85px;">
-
+    margin-left: 85px;
 }
